@@ -9,7 +9,7 @@ I'm continuously expanding my knowledge in full-stack development, focusing on b
 I'm open to collaborating on projects that challenge my thinking and push the boundaries of what's possible in web development. Let's create something amazing together!
 
 ### 📫 Let's Connect
-You can reach me on Instagram [@tess_lihah](https://www.instagram.com/tess_lihah) or explore my work on [GitHub](https://github.com/Tess647).
+You can reach me on Instagram [@tess_lihah](https://www.instagram.com/tess_lihah) or explore my work on [GitHub](https://github.com/Tess647) or connect with me on [LinkedIn](https://www.linkedin.com/in/taslihah-thanni-339b7b171/).
 
 <!---
 Tess647/Tess647 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
